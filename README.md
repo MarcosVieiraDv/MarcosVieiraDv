@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-Me chamo Marcos Vieira de Sousa, tenho 18 anos e sou natural de São José dos Campos. Atualmente, estou cursando Data Science com IA na Ctrl+Play e sou apaixonado por tecnologia e desenvolvimento de software. Meu maior trunfo é o domínio de Python, uma linguagem com a qual já desenvolvi diversos projetos e aplicativos, e que me permite explorar soluções inovadoras de forma eficiente.
+Me chamo Marcos Vieira de Sousa, tenho 18 anos e sou natural de São José dos Campos. Atualmente, estou cursando Data Science com IA na Ctrl+Play e tenho grande interesse por tecnologia e desenvolvimento de software. Meu maior trunfo é o domínio de Python, uma linguagem com a qual já desenvolvi diversos projetos e aplicativos, e que me permite explorar soluções inovadoras de forma eficiente.
 
 Recentemente, conquistei o primeiro lugar no campeonato Hackathon, tanto na fase regional quanto nacional, o que foi um marco importante na minha jornada e reforça minha capacidade de resolver problemas de forma criativa e eficaz. Além disso, tenho experiência com outras tecnologias, como Java, HTML, CSS, JavaScript e SQLite, e estou sempre em busca de novas oportunidades para aprender e contribuir em projetos desafiadores.
 
