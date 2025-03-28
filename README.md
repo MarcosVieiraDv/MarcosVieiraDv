@@ -1,6 +1,6 @@
 # 👨‍💻 Marcos Vieira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Python`**
 
 Me chamo Marcos Vieira de Sousa, tenho 18 anos e sou natural de São José dos Campos. Atualmente, estou cursando Data Science com IA na Ctrl+Play e sou apaixonado por tecnologia e desenvolvimento de software. Meu maior trunfo é o domínio de Python, uma linguagem com a qual já desenvolvi diversos projetos e aplicativos, e que me permite explorar soluções inovadoras de forma eficiente.
 
